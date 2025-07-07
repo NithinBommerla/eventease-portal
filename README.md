@@ -1,4 +1,5 @@
-# 🎉 EventEase - Community Event Planning and Attendance Tracker
+# 🎉 EventEase - Community Event Planning and Attendance Tracker 
+[Event-Ease](https://event-ease-portal.netlify.app/)
 
 **EventEase** is a web-based application built to streamline event management for community organizations, nonprofits, and local groups. With a focus on accessibility, user engagement, and data-driven insights, EventEase enables users to create events, RSVP, analyze attendance trends, and foster community interaction—all through a beautifully designed and responsive interface.
 
