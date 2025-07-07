@@ -49,9 +49,9 @@ Community organizations often rely on fragmented tools like spreadsheets and soc
 ## 🛠️ Tech Stack
 
 ### Frontend
-- [Vite] (https://vite.dev/)
-- [TypeScript] (https://www.typescriptlang.org/)
-- [shadcn-ui] (https://ui.shadcn.com/)
+- [Vite](https://vite.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [shadcn-ui](https://ui.shadcn.com/)
 - [React.js](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 
@@ -98,41 +98,6 @@ Community organizations often rely on fragmented tools like spreadsheets and soc
 ## 🗂️ Project Structure
 
 EventEase/ ├── public/ ├── src/ │ ├── components/ │ ├── pages/ │ ├── services/ │ └── utils/ ├── tests/ ├── tailwind.config.js ├── supabaseClient.js ├── package.json └── README.md
-
----
-
-## 📅 Project Timeline (Agile Sprints)
-
-| Phase                          | Duration     | Key Deliverables                            |
-|-------------------------------|--------------|---------------------------------------------|
-| Phase 1 - MVP Build           | 3 months     | Event creation, RSVP, Auth, Dashboard       |
-| Phase 2 - Enhanced Engagement | 2 months     | WhatsApp, Social Sharing, Analytics         |
-| Phase 3 - Scaling Features    | 3+ months    | AI Recommendations, Live Streaming, Mobile App |
-
----
-
-## 📈 Future Enhancements
-
-- Mobile app (React Native)
-- AI-based event recommendations
-- Event monetization features
-- Live streaming integration
-- Ticketing and donations
-
----
-
-## 📄 License
-
-MIT License © 2025 EventEase Dev Team
-
----
-
-## 🤝 Acknowledgments
-
-- Lewis University - MSCS Program  
-- Dr. Fadi Wedyan (Advisor)  
-- Community stakeholders and early testers  
-- Contributors to open-source tools and APIs used
 
 ---
 
